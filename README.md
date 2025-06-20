@@ -36,19 +36,19 @@ This project presents a detailed analysis of Ola cab booking data using **Power 
 ## 🖼️ Screenshots
 
 ### Overall Dashboard
-![Overall Dashboard](images/Overall.png)
+![Overall Dashboard](Overall.png)
 
 ### Vehicle Type Analysis
-![Vehicle Type](images/Vehicle_Type.png)
+![Vehicle Type](Vehicle_Type.png)
 
 ### Revenue Analysis
-![Revenue](images/Revenue.png)
+![Revenue](Revenue.png)
 
 ### Cancellation Insights
-![Cancellation](images/Cancellation.png)
+![Cancellation](Cancellation.png)
 
 ### Driver Rating Overview
-![Rating](images/Rating.png)
+![Rating](Rating.png)
 
 
 
