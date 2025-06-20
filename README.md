@@ -35,13 +35,20 @@ This project presents a detailed analysis of Ola cab booking data using **Power 
 
 ## 🖼️ Screenshots
 
-> 📌 *Add screenshots of your Power BI dashboard here*  
-> Example:  
-> ![Overall](images/Overall.png)  
-> ![Vehicle_Type](images/Vehicle_Type.png)
-> ![Revenue](images/Revenue.png)
-> ![Cancellation](images/Cancellation.png)
-> ![Rating](images/Rating.png)
+### Overall Dashboard
+![Overall Dashboard](images/Overall.png)
+
+### Vehicle Type Analysis
+![Vehicle Type](images/Vehicle_Type.png)
+
+### Revenue Analysis
+![Revenue](images/Revenue.png)
+
+### Cancellation Insights
+![Cancellation](images/Cancellation.png)
+
+### Driver Rating Overview
+![Rating](images/Rating.png)
 
 
 
